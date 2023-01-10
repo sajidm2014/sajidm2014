@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on python boto3 and terraform (IaC) 
 - 🌱 I’m providing secure & complinace configurations using Terraform Cloud Sentinal policy as service.
 - 🌱 I’m giving consultancy in cloud security.
-- 💞️ I’m looking to collaborate on kubernetes & cloud computing.
+- 💞️ I’m looking to collaborate on kubernetes & cloud-agnostic solutions.
 - 📫 How to reach me https://github.com/sajidm2014/sajidm2014
 
 <!---
